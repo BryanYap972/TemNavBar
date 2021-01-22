@@ -1,8 +1,14 @@
-# design-components-boilerplate
+# HOGC.sg Website Design System
 
 ## Project setup
 ```
 yarn install
+```
+
+OR
+
+```
+npm install
 ```
 
 ### Compiles and hot-reloads for development
@@ -10,20 +16,13 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+OR
 
-### Run your unit tests
 ```
-yarn test:unit
+npm run serve
 ```
 
 ### Lints and fixes files
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
