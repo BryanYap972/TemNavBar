@@ -5,7 +5,7 @@
 yarn install
 ```
 
-If you don't have `yarn` you can get it installed at this [link](https://yarnpkg.com/)
+If you don't have `yarn` you can get it installed at this [link](https://classic.yarnpkg.com/en/docs/install)
 
 ### Start your local server
 ```
