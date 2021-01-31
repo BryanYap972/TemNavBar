@@ -9,6 +9,19 @@ module.exports = {
         xl: '5rem'
       }
     },
+    backgroundImage: {
+      'linear-gradient-gray':
+        'linear-gradient(180deg, #0A0A0A -159.65%, rgba(12, 12, 12, 0) 100%)'
+    },
+    fontSize: {
+      lg: ['32px', '40px']
+    },
+    maxWidth: {
+      logo: '3.3rem'
+    },
+    maxHeight: {
+      logo: '3.5rem'
+    },
     extend: {
       colors: {
         functional: {
@@ -16,6 +29,9 @@ module.exports = {
         },
         website: {
           secondary: '#141B4D'
+        },
+        fontFamily: {
+          test: ['Aktiv Grotesk']
         },
         gray: {
           10: '#F0F2F4',
